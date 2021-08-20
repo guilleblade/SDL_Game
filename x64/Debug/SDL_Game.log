@@ -1,0 +1,33 @@
+﻿  bullet.cpp
+G:\C++ scripts\SDL_Game\bullet.cpp(27,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SDL_Game\bullet.cpp(28,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SDL_Game\bullet.cpp(44,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SDL_Game\bullet.cpp(45,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SDL_Game\bullet.cpp(60,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  enemy.cpp
+G:\C++ scripts\SDL_Game\enemy.cpp(27,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SDL_Game\enemy.cpp(33,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SDL_Game\enemy.cpp(34,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+G:\C++ scripts\SDL_Game\main.cpp(29,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+G:\C++ scripts\SDL_Game\main.cpp(59,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+G:\C++ scripts\SDL_Game\main.cpp(67,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SDL_Game\main.cpp(224,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SDL_Game\main.cpp(224,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SDL_Game\main.cpp(589,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SDL_Game\main.cpp(886,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SDL_Game\main.cpp(734,33): warning C4390: ';': empty controlled statement found; is this the intent?
+G:\C++ scripts\SDL_Game\main.cpp(739,33): warning C4390: ';': empty controlled statement found; is this the intent?
+G:\C++ scripts\SDL_Game\main.cpp(968,36): warning C4390: ';': empty controlled statement found; is this the intent?
+G:\C++ scripts\SDL_Game\main.cpp(973,36): warning C4390: ';': empty controlled statement found; is this the intent?
+  pickUp.cpp
+G:\C++ scripts\SDL_Game\pickUp.cpp(9,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SDL_Game\pickUp.cpp(45,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SDL_Game\pickUp.cpp(46,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SDL_Game\pickUp.cpp(60,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SDL_Game\pickUp.cpp(61,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SDL_Game\pickUp.cpp(74,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SDL_Game\pickUp.cpp(75,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\C++ scripts\SDL_Game\pickUp.cpp(77,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SDL_Game.vcxproj -> G:\C++ scripts\SDL_Game\x64\Debug\SDL_Game.exe

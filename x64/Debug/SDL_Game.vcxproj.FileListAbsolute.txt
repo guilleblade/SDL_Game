@@ -1,0 +1,1 @@
+G:\C++ scripts\SDL_Game\x64\Debug\SDL_Game.exe
